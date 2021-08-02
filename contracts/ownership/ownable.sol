@@ -10,7 +10,7 @@ contract Ownable
 {
 
   /**
-   * @dev Error constants.
+   * @dev Error constants..
    */
   string public constant NOT_CURRENT_OWNER = "018001";
   string public constant CANNOT_TRANSFER_TO_ZERO_ADDRESS = "018002";
